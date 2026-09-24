@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TokenHacker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TokenHacker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
