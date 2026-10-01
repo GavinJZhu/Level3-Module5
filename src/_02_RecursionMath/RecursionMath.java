@@ -26,6 +26,6 @@ public class RecursionMath {
         if (power <= 1){
             return number;
         }
-        return number ^ recursivePower(number, power-1);
+        return number * recursivePower(number, power-1);
     }
 }
